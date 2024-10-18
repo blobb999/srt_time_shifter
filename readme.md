@@ -23,7 +23,7 @@ Installation
 
     bash
 
-git clone https://github.com/yourusername/srt-time-shifter.git
+git clone https://github.com/blobb999/srt_time_shifter.git
 
 Navigate to the project directory:
 
